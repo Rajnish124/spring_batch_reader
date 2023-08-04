@@ -1,0 +1,88 @@
+[
+	
+	{
+		"id":1,
+		"firstName":"Raja",
+		"lastName":"Yadav",
+		"email":"raja@gmail.com"	
+	},
+	
+	{
+		"id":2,
+		"firstName":"Raju",
+		"lastName":"Rai",
+		"email":"raju@gmail.com"	
+	
+	},
+	
+	{
+	
+		"id":3,
+		"firstName":"Saurabh",
+		"lastName":"Yadav",
+		"email":"saurabh@gmail.com"	
+	
+	},
+	
+	{
+		"id":4,
+		"firstName":"Munaa",
+		"lastName":"Mishr",
+		"email":"munna@gmail.com"	
+	
+	},
+	
+	{
+		"id":5,
+		"firstName":"Sohan",
+		"lastName":"Pandey",
+		"email":"sohan@gmail.com"	
+	
+	},
+	
+	{
+		"id":6,
+		"firstName":"Rohit",
+		"lastName":"Sharma",
+		"email":"rohit@gmail.com"	
+	
+	},
+	
+	{
+		"id":7,
+		"firstName":"Virat",
+		"lastName":"Kohli",
+		"email":"virat@gmail.com"	
+	
+	},
+	
+	{
+		"id":8,
+		"firstName":"Ishan",
+		"lastName":"Kisan",
+		"email":"isan@gmail.com"	
+	
+	
+	},
+	
+	{
+		"id":9,
+		"firstName":"Anil",
+		"lastName":"Ji",
+		"email":"anil@gmail.com"	
+	
+	},
+	
+	
+	{
+		"id":10,
+		"firstName":"Abhinay",
+		"lastName":"shukla",
+		"email":"abhinay@gmail.com"	
+	
+	}
+	
+
+
+
+]
